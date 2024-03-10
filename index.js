@@ -29,7 +29,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
 
-    const change = ['https://64.media.tumblr.com/06502a3f379cc450f27b63f5535c7497/21af19968522ff6f-01/s1280x1920/ad0677ae9bef9d1ffcda1f20b6713be4c6606e22.gifv'];
+    const change = ['https://cdn.discordapp.com/attachments/1199386824582373516/1216394390516535296/tumblr_b4f9a4f872b387144e1aeca5dd5ec373_5ec0760b_640.gif?ex=66003a8e&is=65edc58e&hm=05573344f402b648bf68a2399a434843a537a5cb8c5a397cd2e840ea436a5c79&'];
     const change2 = ['ig:n.amo_56', 'Support เกือบ 24 ชั่วโมง'];
     const change3 = ['⏰', '⏰', '⏰', '⏰'];
     const iooi = ['୧₊˚🎫・Website・꒱', '〝📦〞MOD GAME', '〝📦〞FREE'];
