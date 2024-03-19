@@ -35,7 +35,7 @@ client.on('ready', async () => {
     const iooi = ['୧₊˚🎫・Website・꒱', '〝📦〞MOD GAME', '〝📦〞FREE'];
     const iiio = ['https://mod-free.netlify.app/'];
     const yyyt = ['⏰₊꒷ 4levy server˳ʚ', '⏰₊꒷ 4levy server˳ʚ', '⏰₊꒷4levy server˳ʚ'];
-    const ddds = ['https://discord.gg/NnSghccnH5'];
+    const ddds = ['https://discord.gg/jmmrQcwYP3'];
 
     // Randomize data
     const tyyy = yyyt[Math.floor(Math.random() * yyyt.length)];
